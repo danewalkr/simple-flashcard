@@ -25,7 +25,8 @@ A simple, beginner-friendly Python flashcard application to help users study. Bu
 
 3. **Run the app**
   ```bash
-  python flashcards.py
+  python flashcard_app.py
 
 ## Dependencies
 - tkinter (included with most Python 3 installations)
+- ttkbootstrap
